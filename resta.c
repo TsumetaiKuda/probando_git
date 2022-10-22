@@ -4,16 +4,15 @@
 #include<string.h>
 /*
  * Autor: Saúl Bustamante Bernabe
- * Descripción: Suma
+ * Descripción: Resta
  * Carrera: Ingenieria de Software
  * Grupo: 1D
  * */
 
 void main(){
-    int a = 23;
-    int b = 75;
-    int r = a + b;
-    float z = r / a / b;
+    int a = 34;
+    int b 94;
+    int r = a - b;
     printf("%d + %d = %d\n", a, b, r);
 }
 
